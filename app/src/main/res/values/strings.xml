@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="dial">Dial</string>
+    <string name="open_website">Open Website</string>
+    <string name="sms">SMS</string>
+    <string name="email">Email</string>
+</resources>
